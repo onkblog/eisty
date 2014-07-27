@@ -1,0 +1,10 @@
+body {background:url('http://kod-project.googlecode.com/svn/kod/images/background.gif');}
+.li_active a:active {background:url('http://kod-project.googlecode.com/svn/kod/images/nav_body.gif') no-repeat;}
+.info-box {background:url('http://kod-project.googlecode.com/svn/kod/images/login_box.gif') no-repeat top;}
+#head {background:url('http://kod-project.googlecode.com/svn/kod/images/content_header.gif') no-repeat top;}
+#content {background:url('http://kod-project.googlecode.com/svn/kod/images/content_body.gif') repeat-y;}
+#content_footer {background:url('http://kod-project.googlecode.com/svn/kod/images/content_footer.gif') no-repeat;}
+.li_nav_content {background:url('http://kod-project.googlecode.com/svn/kod/images/nav_header.gif') no-repeat;}
+.li_nav_footer {background:url('http://kod-project.googlecode.com/svn/kod/images/nav_footer.gif') no-repeat;}
+.isi {background:url('http://kod-project.googlecode.com/svn/kod/images/menu_item.gif') repeat-y;}
+#sidebar-wrapper h2 {background:url('http://kod-project.googlecode.com/svn/kod/images/nav_body.gif') no-repeat;}
